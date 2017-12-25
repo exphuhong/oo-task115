@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OO step by step with ES6
 适用对象：
 1. 没有js面向对象经验的人快速验证自己是否已经具备了用js进行基本的面向对象编程的能力
@@ -50,3 +51,6 @@ node_modules/mocha/bin/mocha spec/practice_1/*.js --require babel/register
 1. [Javascript面向对象编程（三）：非构造函数的继承](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance_continued.html)
 1. [JavaScript Objects](http://www.w3schools.com/js/js_object_definition.asp)
 1. [CodeForDream Javascript 中级](http://www.codefordream.com/courses/js_intermediate/sections)
+=======
+# oo-task115
+>>>>>>> 396931b1f20a7fb3329e0ef72ba586238215326a
